@@ -2,7 +2,7 @@
 
   A community-curated list of open-source platforms for testing/evaluating satellite software, maintained by the **[OPENSAT](https://github.com/Satellite-OSS)** open-source satellite community.
 
-[![Total views](https://raw.githubusercontent.com/Satellite-OSS/.github/main/traffic/SoftwareEvaluationPlatform/views.svg)](https://github.com/Satellite-OSS/.github/tree/main/traffic/SoftwareEvaluationPlatform "Cumulative recorded repository views; updated hourly")
+[![Total views](https://raw.githubusercontent.com/Satellite-OSS/.github/main/traffic/SoftwareEvaluationPlatform.svg)](https://github.com/Satellite-OSS/.github/blob/main/traffic/SoftwareEvaluationPlatform.csv "Cumulative recorded repository views; updated hourly")
 [![Discussions](https://img.shields.io/badge/Discussions-Join%20the%20Community-2ea44f?style=flat-square&logo=github)](https://github.com/orgs/Satellite-OSS-BUPT/discussions)
 [![README](https://img.shields.io/badge/README-中文-blue?style=flat-square)](README.zh-CN.md)
 
